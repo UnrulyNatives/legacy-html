@@ -1,3 +1,11 @@
+## This fork's purpose
+This fork is compatible with Laravel 12 and can be added to your composer by simly adding the line
+`"unrulynatives/legacy-html": "dev-master",`
+
+or entering command
+`require unrulynatives/legacy-html`
+
+
 ![LaravelCollective HTML](LaravelCollectiveHTML-banner.png)
 
 [![Build Status](https://travis-ci.org/LaravelCollective/html.svg)](https://travis-ci.org/LaravelCollective/html)
